@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Day la file dau tien ahihihiiiiiiiiiiiiiiiiii
-=======
-Day la file dau tien ahihihi
->>>>>>> 70b39af2fedb84c2fe86065bf15eb6862251c54c
